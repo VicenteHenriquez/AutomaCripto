@@ -4,7 +4,6 @@ import time
 
 usr = "" #nombreusuario que en este caso corresponde al mail
 pswd = "" #password actual
-nameus = "" #nombre que usaste en la pagina para ingresar(ej. Jaime)
 #menu
 print("Eliga una opcion para la pagina uefa.com: 1.inicio de sesion 2.reestablecer pass 3. modificar pass 4. Crear cuenta")
 el = int(input())
