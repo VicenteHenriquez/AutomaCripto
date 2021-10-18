@@ -6,7 +6,7 @@ usr = "vhencripto@gmail.com" #nombreusuario que en este caso corresponde al mail
 pswd = "Hola12345" #password actual
 nameus = "Vincent" #nombre que usaste en la pagina para ingresar(ej. Jaime)
 #menu
-print("Eliga una opcion para la pagina uefa.com: 1.inicio de sesion 2.reestablecer pass 3. modificar pass")
+print("Eliga una opcion para la pagina uefa.com: 1.inicio de sesion 2.reestablecer pass 3. modificar pass 4. Crear cuenta")
 el = int(input())
 if el == 1:
     print("iniciando sesion")
